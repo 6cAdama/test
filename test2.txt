@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>vente</title>
+
+
+</head>
+<body bgcolore=khaki>
+<label>PSEUDO</label>
+<input type="text" name="pseudo">
+<label>Mot de passe</label>
+<input type="password" name="pass">
+<marquee>
+<img src="vente.jpeg">
+
+
+
+
+</marquee>
+
+
+
+
+
+
+
+</body>
+</html>
